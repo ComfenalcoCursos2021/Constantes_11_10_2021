@@ -20,7 +20,7 @@
     var_dump(MASA);
     
     echo "\n";
-    
+     
     $vaso = (string) null;
     var_dump($vaso);
     $vaso = (string) "Agua";
